@@ -1,6 +1,6 @@
 import random
 
-n = random.choice(range(20, 21))
+n = random.choice(range(3, 21))
 print(n)
 gt = []
 for i in range(1, n):
